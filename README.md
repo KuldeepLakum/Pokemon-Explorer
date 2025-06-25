@@ -21,9 +21,6 @@ Catch, explore, and learn about 670 Pokémon from the PokéAPI 🎯
 
 ---
 
-
----
-
 ## 🛠️ Tech Stack
 
 - ⚛️ **React 19**
@@ -43,7 +40,7 @@ cd pokemon-explorer
 ```
 ---
 
-🌍 Live Demo
+## 🌍 Live Demo
 
 👉 View Live Site(Pokemon-Expolrar)[https://kuldeeplakum.github.io/Pokemon-Explorer/]
 
