@@ -46,14 +46,14 @@ cd pokemon-explorer
 
 ---
 
-📸 Screenshots
+## 📸 Screenshots
 
 ![Pokemon-Explorer-img](https://github.com/user-attachments/assets/8dde2da8-01c2-4222-8d3b-345a5372fd06)
 
 ---
 
 
-🙏 Acknowledgements
+## 🙏 Acknowledgements
 
 API: PokéAPI
 
@@ -63,13 +63,13 @@ Fonts: Google Fonts (Poppins)
 
 ---
 
-📃 License
+## 📃 License
 This project is open-source and free to use.
 Feel free to fork, modify, and enhance it! 💖
 
 ---
 
-📬 Let's Connect!
+## 📬 Let's Connect!
 
 🐱 GitHub: @KuldeepLakum
 
