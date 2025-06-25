@@ -1,6 +1,6 @@
 # ⚡️ Pokémon Explorer App
 
-Welcome to the **Pokémon Explorer** — a sleek and responsive React app built using **React 19 + Vite**!  
+Welcome to the **Pokémon Explorer** — a sleek and responsive React app built using **React 19 + Vite**!
 Catch, explore, and learn about 670 Pokémon from the PokéAPI 🎯
 
 ---
