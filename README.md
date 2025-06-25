@@ -1,12 +1,81 @@
-# React + Vite
+# ⚡️ Pokémon Explorer App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Welcome to the **Pokémon Explorer** — a sleek and responsive React app built using **React 19 + Vite**!  
+Catch, explore, and learn about 670 Pokémon from the PokéAPI 🎯
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+🧩 **Real-Time Data**: Fetches 670 Pokémon from [PokéAPI](https://pokeapi.co)  
+🔍 **Search Bar**: Instantly filter Pokémon by name  
+🃏 **Detailed Cards**: Each Pokémon card includes:
+- 🖼️ Image
+- 🧬 Type(s)
+- 📏 Height & ⚖️ Weight
+- ⚡ Speed, 🥊 Attack, ✨ Base Experience
+- 🧠 First Ability
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🖥️ **Responsive Design**: Optimized for Desktop, Tablet & Mobile  
+🎨 **Stylish UI**: Clean layout using **Flexbox**, hover effects, and custom fonts
+
+---
+
+
+---
+
+## 🛠️ Tech Stack
+
+- ⚛️ **React 19**
+- ⚡ **Vite**
+- 🎨 **CSS3 (Flexbox + Media Queries)**
+- 🧠 **React Hooks**: useState, useEffect
+- 🌐 **PokéAPI**
+
+---
+
+## 🧑‍💻 How to Run Locally
+
+1. **Clone the Repository**  
+```bash
+git clone https://github.com/your-username/pokemon-explorer.git
+cd pokemon-explorer
+```
+---
+
+🌍 Live Demo
+
+👉 View Live Site(Pokemon-Expolrar)[https://kuldeeplakum.github.io/Pokemon-Explorer/]
+
+---
+
+📸 Screenshots
+
+![Pokemon-Explorer-img](https://github.com/user-attachments/assets/8dde2da8-01c2-4222-8d3b-345a5372fd06)
+
+---
+
+
+🙏 Acknowledgements
+
+API: PokéAPI
+
+Icons & Inspiration: Pokémon Universe 🎮
+
+Fonts: Google Fonts (Poppins)
+
+---
+
+📃 License
+This project is open-source and free to use.
+Feel free to fork, modify, and enhance it! 💖
+
+---
+
+📬 Let's Connect!
+
+🐱 GitHub: @KuldeepLakum
+
+💼 LinkedIn: [https://www.linkedin.com/in/lakum-kuldeep-/]
+
+
