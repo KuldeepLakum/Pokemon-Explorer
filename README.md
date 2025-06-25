@@ -42,8 +42,7 @@ cd pokemon-explorer
 
 ## 🌍 Live Demo
 
-👉 View Live Site(Pokemon-Expolrar)[https://kuldeeplakum.github.io/Pokemon-Explorer/]
-[Pokemon-Explorer](https://pokemonn-expolorerr.netlify.app/)
+👉 View Live Site[Pokemon-Explorer](https://pokemonn-expolorerr.netlify.app/)
 
 ---
 
